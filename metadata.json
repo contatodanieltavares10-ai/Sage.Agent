@@ -1,0 +1,7 @@
+{
+  "name": "Sage",
+  "description": "Um agente de IA estrategista de SEO de classe mundial. Obtenha conselhos de especialistas via chat e explore métricas de palavras-chave, incluindo dificuldade, volume e intenção de busca, com a tecnologia Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
